@@ -8,7 +8,7 @@ L'app occupa praticamente nulla di memoria quindi non rallenta la navigazione.
 Una volta installata (istruzioni in basso) non dovrai preoccuparti di altro.
 
 
-INSTALLAZIONE
+## INSTALLAZIONE
 1. Scarica questa repository in formato .zip, ed estrai la cartella in un posto che non ti da fastidio (va tenuta)
 2. Da chrome, vai su menu-->strumenti-->estensioni oppure digita sulla barra di ricerca in alto "chrome://extensions/"
 3. Attiva la modalita' di sviluppatore in alto, cliccando sull'apposita casella
