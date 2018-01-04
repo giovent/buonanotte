@@ -1,4 +1,4 @@
-# Buonanotte, Estensione per Chrome
+# Buonanotte, estensione per Google Chrome
 
 Buongiorno... O anche no.
 
