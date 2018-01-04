@@ -1,0 +1,20 @@
+{
+  "manifest_version": 2,
+
+  "name": "Buonanotte",
+  "description": "Questa estenzione permette di nascondere la rubrica Buongiorno di Mattia Feltri su LaStampa.it",
+  "version": "1.0",
+
+  "browser_action": {
+    "default_icon": "icon.png"
+  },
+
+  "content_scripts": [{
+    "js": ["content.js"],
+    "matches": ["http://www.lastampa.it/*"]
+  }],
+
+  "permissions": [
+    "activeTab"
+  ]
+}
